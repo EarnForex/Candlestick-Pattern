@@ -9,7 +9,7 @@ It supports notifications via email, mobile, and the platform's popup window.
 ![Candlestick Pattern indicator's input parameters](https://github.com/EarnForex/Candlestick-Pattern/blob/main/candlestick-pattern-inputs.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/candlestick-pattern-indicator/
+https://www.earnforex.com/indicators/candlestick-pattern-indicator/
 
 It is somewhat similar to this indicator:
 https://github.com/EarnForex/Pattern-Recognition-Master
